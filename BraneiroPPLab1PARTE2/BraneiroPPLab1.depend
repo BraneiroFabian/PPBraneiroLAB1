@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1589983132 source:c:\users\admin\desktop\proyectos\braneiropplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+
+1589834994 source:c:\users\admin\desktop\proyectos\braneiropplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1589945974 c:\users\admin\desktop\proyectos\braneiropplab1\validaciones.h
+
+1589985880 c:\users\admin\desktop\proyectos\braneiropplab1\mascotas.h
+
+1589978684 c:\users\admin\desktop\proyectos\braneiropplab1\trabajos.h
+	"mascotas.h"
+
+1589984000 source:c:\users\admin\desktop\proyectos\braneiropplab1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+	"validaciones.h"
+
+1589979133 source:c:\users\admin\desktop\proyectos\braneiropplab1\trabajos.c
+	"trabajos.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
